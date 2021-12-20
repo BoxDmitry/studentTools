@@ -1,0 +1,28 @@
+[
+  {
+    "image": "https:\/\/dmitry-407.github.io\/studentTools\/images\/task.png",
+    "title": "Проверка заданий",
+    "subject": "Большие данные",
+    "url": "https:\/\/dmitry-407.github.io\/",
+    "soon": {
+      "status": "true",
+      "text": "Временно недоступно"
+    }
+  },
+  {
+    "image": "https:\/\/dmitry-407.github.io\/studentTools\/images\/pg_admin.svg",
+    "title": "pgAdmin",
+    "subject": "Большие данные",
+    "url": "http:\/\/648683-cx40858.tmweb.ru\/pgadmin4\/"
+  },
+  {
+    "image": "https:\/\/dmitry-407.github.io\/studentTools\/images\/colab.svg",
+    "title": "Google Colaboratory",
+    "url": "https:\/\/colab.research.google.com\/"
+  },
+  {
+    "image": "https:\/\/dmitry-407.github.io\/studentTools\/images\/jupiter_lab.svg",
+    "title": "JupyterHab",
+    "url": "http:\/\/648683-cx40858.tmweb.ru:8000\/"
+  }
+]
